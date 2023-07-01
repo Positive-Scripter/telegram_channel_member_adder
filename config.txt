@@ -1,0 +1,3 @@
+api_id = 20700643
+api_hash = d069f937eeb6c000add16992c9ddb877
+phone_number = +919000149004
